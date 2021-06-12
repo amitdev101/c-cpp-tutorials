@@ -1,0 +1,15 @@
+Practice - everyday (1 simple question)
+        - Notebook coding (helps in interview)
+        - pc 
+
+1. setup and syntax
+2. How to use vscode tools (debuggers and addons)
+3. basic c programs
+4. basic operations / basic information
+5. Numbers and character
+6. Arrays and strings
+7. Continue Practice of what we have learned till now..
+8. Little introduction to pointers
+9. Recursion basic
+10. Competitive coding in C/C++
+
